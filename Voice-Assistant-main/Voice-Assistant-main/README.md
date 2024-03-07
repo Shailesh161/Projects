@@ -1,8 +1,8 @@
-# AI Assistant README
+# 🤖 AI Assistant README
 
 Welcome to the documentation of our AI Assistant! Our assistant is designed to assist users with various tasks and provide information on a wide range of topics. Below is a comprehensive guide to the features and commands supported by our assistant.
 
-## Features:
+## 🚀 Features:
 
 ### 1. Voice Interaction:
 - Users can interact with the assistant using voice commands, making it convenient and hands-free.
@@ -28,7 +28,7 @@ Welcome to the documentation of our AI Assistant! Our assistant is designed to a
 ### 8. Expense Tracking:
 - Record and list expenses by providing the expense name and amount through voice commands.
 
-## Supported Commands:
+## 📋 Supported Commands:
 
 ### General Commands:
 
@@ -75,13 +75,13 @@ Welcome to the documentation of our AI Assistant! Our assistant is designed to a
 - **Add Expense:** Record new expenses with name and amount.
 - **List Expenses:** View a list of recorded expenses.
 
-## How to Use:
+## 🛠️ How to Use:
 
 1. Start the assistant by running the provided code.
 2. Speak out the desired command clearly.
 3. The assistant will process your command and perform the corresponding action.
 
-## Dependencies:
+## ⚙️ Dependencies:
 
 - **pyttsx3:** Text-to-speech conversion library.
 - **speech_recognition:** Library for speech recognition.
@@ -96,11 +96,11 @@ Welcome to the documentation of our AI Assistant! Our assistant is designed to a
 
 Ensure that all dependencies are installed before running the code.
 
-## Contributor:
+## 👨‍💻 Contributor:
 
 - Shailesh Gatkul: Developer of the AI Assistant.
 
-## Note:
+## 📝 Note:
 
 - Replace "YOUR_API_KEY" in the code with your OpenWeatherMap API key to enable weather information retrieval.
 
