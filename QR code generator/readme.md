@@ -43,10 +43,6 @@ This QR Code Generator utilizes the following dependencies:
 
 Shailesh Gatkul .
 
-## License
-
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
-
 ---
 
 With this QR Code Generator, you can effortlessly create QR codes for various purposes, from sharing URLs to encoding text messages. Enjoy the simplicity and convenience it offers for all your QR code generation needs!
