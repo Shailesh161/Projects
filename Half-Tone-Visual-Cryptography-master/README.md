@@ -1,19 +1,40 @@
-# Half-Tone-Visual-Cryptography
-Visual cryptographic schemes (VCS) allow one(at the sender side) to encrypt a secret picture (image) into different share images. Here no share image does uncover any knowledge concerning the original secret image. This work proposes a visual cryptography encryption framework. A color image to be protected is taken as input and then this image is decomposed into three separate monochromatic images based on CMY color space. The computer simulation demonstrates that the visual nature and tone (in terms of quality) of the acquired halftoned shares is acceptable
+![image](https://github.com/Shailesh161/Projects/assets/112454440/fe45f827-c151-4823-9c95-d3b00025b951)# 🎨 Half-Tone Visual Cryptography
 
-Visual cryptography, an emerging cryptography technology, uses the characteristics of human vision to decrypt the encrypted images. It does not require the knowledge of cryptography for decryption. For security concerns, it also ensures that hackers cannot perceive any clues about a secret image from individual cover images. Though it has been developed only for binary images, there have been many papers and research articles about its use in grayscale and colored images. Our report explores one such method where an image is a colour decomposed to Cyan, Magenta, Yellow colors and then the visual cryptography is carried out for the individual decomposition.
+Visual cryptographic schemes (VCS) provide a unique way to encrypt images into multiple share images, ensuring that no single share image reveals any information about the original secret image. This project proposes a visual cryptography encryption framework that decomposes a color image into separate monochromatic images based on the CMY color space. The resulting halftoned share images preserve the visual nature and quality of the original image.
 
+## Overview
 
-STEPS:
+Visual cryptography leverages human vision characteristics for decryption, eliminating the need for cryptographic knowledge. It ensures security by preventing hackers from gaining any insights into the secret image from individual cover images. While traditionally developed for binary images, visual cryptography has expanded to grayscale and colored images, as explored in this report.
 
-1.)SAVE all the files in the same directory
+## Steps to Run the Project:
 
-2.)Run the CMY.py file
+### 1. Save All Files in the Same Directory
 
-3.)Run Halftone.py file
+Ensure that all project files, including `CMY.py`, `Halftone.py`, `main.py`, and `output.py`, are saved in the same directory.
 
-4.)Run main.py file
+### 2. Run CMY.py
 
-5.)Run output.py file
+Execute the `CMY.py` file, which serves to decompose the color image into Cyan, Magenta, and Yellow components based on the CMY color space.
 
-6.)A final image will be saved in the same directory
+### 3. Run Halftone.py
+
+Run the `Halftone.py` file, responsible for converting the decomposed monochromatic images into halftone representations.
+
+### 4. Run main.py
+
+Execute the `main.py` file, which carries out the visual cryptography encryption process for each decomposition.
+
+### 5. Run output.py
+
+Run the `output.py` file, which compiles the encrypted share images into a final composite image.
+
+### 6. Final Image Generation
+
+After completing the above steps, a final composite image containing the encrypted shares will be saved in the same directory.
+
+## Note:
+
+- Ensure that all dependencies required by the project are installed in your environment.
+- Customize the project as needed and explore further extensions based on your requirements.
+
+By following these steps, you can successfully run the Half-Tone Visual Cryptography project and generate encrypted share images. Enjoy exploring the fascinating world of visual cryptography!
