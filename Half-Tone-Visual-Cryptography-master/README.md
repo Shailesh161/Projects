@@ -1,4 +1,4 @@
- 🎨 Half-Tone Visual Cryptography
+ 🎨 ## Half-Tone Visual Cryptography
 
 Visual cryptographic schemes (VCS) provide a unique way to encrypt images into multiple share images, ensuring that no single share image reveals any information about the original secret image. This project proposes a visual cryptography encryption framework that decomposes a color image into separate monochromatic images based on the CMY color space. The resulting halftoned share images preserve the visual nature and quality of the original image.
 
