@@ -19,6 +19,7 @@ Before running the script, ensure you have the following dependencies installed:
 - dlib
 - SciPy
 
+
 Install the dependencies using pip:
 
 ```
